@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: 김관용
-title: Server Backend Developer
+title: Backend Developer
 email: twlmkle@naver.com
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
@@ -52,13 +52,8 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  안녕하세요. 7년차 백엔드 개발자 김관용입니다.
+  일 주문 1만건 SK하이닉스 자회사 B2B 구매 서비스 개발자로 재직중입니다.
 
 content:
   - title: Experience
@@ -68,7 +63,6 @@ content:
         title: 행복나래
         sub_title: IT팀 Manager
         caption: 2019.01 ~ 재직중
-        link: Link to company (optional)
         quote: >
           일 주문 1만건 SK 전 계열사 대상 B2B 구매 서비스 개발 및 운영
         description: | # this will include new lines to allow paragraphs
