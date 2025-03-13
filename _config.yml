@@ -34,10 +34,10 @@ github_username:  kwanyong-k
 #googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#additional_links:
+#- title: Link name
+  #icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  #url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -53,7 +53,7 @@ additional_links:
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. 7년차 백엔드 개발자 김관용입니다.<br>
-  일 주문 1만건 **SK하이닉스 자회사 B2B 구매** 서비스 개발자로 재직중입니다.<br>
+  일 주문 1만건 **SK하이닉스 자회사 B2B 구매** 서비스 개발자로 재직중입니다.<br><br>
   구매 시스템 전 영역에 걸친 레거시 시스템 리팩토링 및 개발/운영 경험<br>
    - 견적의뢰부터 정산까지의 서비스 전 영역에 대한 비즈니스 로직 파악<br>
    - PG사 연동 / 물류 연동 / 파트너오피스/ 고객오피스 등 외부 연계시스템에 대한 구축 경험
@@ -72,13 +72,11 @@ content:
             * CI/CD 서버 구축, 소스 관리 및 자동 배포 구축 및 운영(Jenkins, GitLab)
             * 구매시스템 통합 내부 결재 시스템 구축(jsp, 반응형 웹)
             * SK관계사,  비관계사 인터페이스 구축 및 운영(DB to DB, SOAP API)
-            * 국내 파트너 서비스 JSP -> Spring Boot 마이그레이션
-            * 국내 고객 서비스 JSP -> Spring Boot 마이그레이션
+            * 국내 파트너 서비스 JSP -> Spring Boot 컨버전 프로젝트 수행
+            * 국내 고객 서비스 JSP -> Spring Boot 컨버전 프로젝트 수행
             * 배치 100여개 Crontab -> Spring Batch 이관
-            * 헝가리, 미국 법인 어드민/고객/협력사 서비스 구축
-            * 본사.해외법인 간 견적/구매/입고 인터페이스 구축 및 운영(REST API)
-            * 미국법인 구매시스템 WMS 서비스 물류 데이터 API 연동(REST API)
-            * SK계열사/협력사 구매 서비스 운영 및 개발
+            * 헝가리, 미국 법인 구매 시스템 구축
+            * 구매 시스템 운영 및 개발
   - title: 역량
     layout: list
     content:
@@ -102,10 +100,10 @@ content:
         title: 레거시 시스템 리팩토링
         quote: >
         description: | # this will include new lines to allow paragraphs
-          * SCM 파트너 서비스 Springboot 컨버전 프로젝트 진행
+          * SCM 파트너 서비스 Springboot 컨버전 프로젝트 수행
             - 요구사항 분석
             - 파트너 등록, 오더 수주, 배송 증빙 화면 이관 
-          * SCM 고객 서비스 Springboot 컨버전 프로젝트 진행
+          * SCM 고객 서비스 Springboot 컨버전 프로젝트 수행
             - PG사(이니시스) 연동 부분 이관
           * 배치 100여개 Crontab -> Spring Batch 이관 (스케줄러 서비스 구축)
             - 오라클 스토어드 프로시저 실행 주체 변경
