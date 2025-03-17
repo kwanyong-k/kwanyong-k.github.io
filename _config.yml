@@ -20,7 +20,7 @@ darkmode: false
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  kwanyong-k
+#github_username:  kwanyong-k
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
 #facebook_username: jekyll
@@ -50,7 +50,7 @@ github_username:  kwanyong-k
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. 7년차 백엔드 개발자 김관용입니다.<br>
   일 주문 1만건 **SK하이닉스 자회사 B2B 구매** 서비스 개발자로 재직중입니다.<br><br>
