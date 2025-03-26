@@ -70,8 +70,8 @@ content:
           일 주문 1만건 SK 전 계열사 대상 B2B 구매 서비스 개발 및 운영
         description: | # this will include new lines to allow paragraphs
             * CI/CD 서버 구축, 소스 관리 및 자동 배포 구축 및 운영(Jenkins, GitLab)
-            * 구매시스템 통합 내부 결재 시스템 구축(jsp, 반응형 웹)
-            * SK관계사,  비관계사 인터페이스 구축 및 운영(DB to DB, SOAP API)
+            * 구매시스템 통합 내부 결재 시스템 구축
+            * SK관계사,  비관계사 인터페이스 구축 및 운영
             * 국내 파트너 서비스 JSP -> Spring Boot 컨버전 프로젝트 수행
             * 국내 고객 서비스 JSP -> Spring Boot 컨버전 프로젝트 수행
             * 배치 100여개 Crontab -> Spring Batch 이관
@@ -89,10 +89,10 @@ content:
             - 다중화 서버 배포 자동화
           * 구매시스템 통합 내부 결재 시스템 구축 및 운영
             - 기존 그룹웨어를 통한 구매 업무 관련 결재 → 결재시스템 구축하여 구매 업무 관련 결재 서비스  
-          * SK관계사,  비관계사 인터페이스 구축 및 운영(DB to DB, SOAP API, REST API)
+          * SK관계사,  비관계사 인터페이스 구축 및 운영(DB to DB, SOAP, REST API)
           * 헝가리/미국 법인 구매 시스템 구축
             - 어드민/고객사/협력사 서비스
-            - 국내 시스템 기반 마이그레이션 ㆍ 어드민 신규 화면 개발
+            - 국내 시스템 기반 마이그레이션 ㆍ 어드민 신규 화면,기능 개발
             - 자동 메일 서비스 개발(Amazon SES)
             - 본사.미국법인 간 견적/구매/입고 인터페이스 구축(REST API)
             - 미국법인 재고관리 물류 데이터 연동(REST API)
@@ -102,8 +102,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           * SCM 파트너 서비스 Springboot 컨버전 프로젝트 수행
             - 요구사항 분석
+            - 프로세스 검토 및 협의
             - 파트너 등록, 오더 수주, 배송 증빙 화면 이관 
           * SCM 고객 서비스 Springboot 컨버전 프로젝트 수행
+            - 요구사항 분석
+            - 프로세스 검토 및 협의 
             - PG사(이니시스) 연동 부분 이관
           * 배치 100여개 Crontab -> Spring Batch 이관 (스케줄러 서비스 구축)
             - 오라클 스토어드 프로시저 실행 주체 변경
