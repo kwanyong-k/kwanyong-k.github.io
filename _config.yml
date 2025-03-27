@@ -69,14 +69,16 @@ content:
         quote: >
           일 주문 1만건 SK 전 계열사 대상 B2B 구매 서비스 개발 및 운영
         description: | # this will include new lines to allow paragraphs
-            * CI/CD 서버 구축, 소스 관리 및 자동 배포 구축 및 운영(Jenkins, GitLab)
+            * 구매 시스템 운영 및 개발
+            * 헝가리, 미국 법인 구매 시스템 구축
+            * 국내 파트너 서비스 JSP -> Spring Boot 컨버전 프로젝트 수행(2020.10 ~ 2021.03)
+            * 국내 고객 서비스 JSP -> Spring Boot 컨버전 프로젝트 수행(2022.09 ~ 2023.02)
+            * 배치 100여개 Crontab -> Spring Batch 이관
             * 구매시스템 통합 내부 결재 시스템 구축
             * SK관계사,  비관계사 인터페이스 구축 및 운영
-            * 국내 파트너 서비스 JSP -> Spring Boot 컨버전 프로젝트 수행
-            * 국내 고객 서비스 JSP -> Spring Boot 컨버전 프로젝트 수행
-            * 배치 100여개 Crontab -> Spring Batch 이관
-            * 헝가리, 미국 법인 구매 시스템 구축
-            * 구매 시스템 운영 및 개발
+            * CI/CD 서버 구축, 소스 관리 및 자동 배포 구축 및 운영(Jenkins, GitLab)
+            * APM 구축(Scouter) 
+            
   - title: 역량
     layout: list
     content:
@@ -84,18 +86,21 @@ content:
         title: 시스템 개발 및 개선
         quote: >
         description: |
-          * CI/CD 서버 구축, 소스 관리 및 자동 배포 구축 및 운영(Jenkins, GitLab)
-            - 기존 형상 관리툴 SVN 관리 미흡,  FTP 배포 방식 → GitLab, Jenkins 도입
-            - 다중화 서버 배포 자동화
-          * 구매시스템 통합 내부 결재 시스템 구축 및 운영
-            - 기존 그룹웨어를 통한 구매 업무 관련 결재 → 결재시스템 구축하여 구매 업무 관련 결재 서비스  
-          * SK관계사,  비관계사 인터페이스 구축 및 운영(DB to DB, SOAP, REST API)
           * 헝가리/미국 법인 구매 시스템 구축
             - 어드민/고객사/협력사 서비스
             - 국내 시스템 기반 마이그레이션 ㆍ 어드민 신규 화면,기능 개발
             - 자동 메일 서비스 개발(Amazon SES)
             - 본사.미국법인 간 견적/구매/입고 인터페이스 구축(REST API)
             - 미국법인 재고관리 물류 데이터 연동(REST API)
+          * 구매시스템 통합 내부 결재 시스템 구축 및 운영
+            - 기존 그룹웨어를 통한 구매 업무 관련 결재 → 결재시스템 구축하여 구매 업무 관련 결재 서비스  
+          * CI/CD 서버 구축, 소스 관리 및 자동 배포 구축 및 운영(Jenkins, GitLab)
+            - 기존 형상 관리툴 SVN 관리 미흡,  FTP 배포 방식 → GitLab, Jenkins 도입
+            - 다중화 서버 배포 자동화
+          * APM 구축(Scouter)
+            - 애플리케이션 성능 모니터링 툴 도입 
+          * SK관계사, 비관계사 인터페이스 구축 및 운영(DB to DB, SOAP, REST API)
+          
       - layout: top-middle
         title: 레거시 시스템 리팩토링
         quote: >
