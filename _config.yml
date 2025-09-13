@@ -54,15 +54,15 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. 7년차 백엔드 개발자 김관용입니다.<br>
   7년 간 일 주문 1만건 **SK하이닉스 자회사 B2B 구매** 서비스 개발자로 재직<br>
-  현재는 보안 전문 기업의 커머스 플랫폼 개발자로 재직중입니다.<br><br>
+  현재는 **보안 전문 기업의 커머스 플랫폼** 개발자로 재직중입니다.<br><br>
   구매 시스템 전 영역에 걸친 레거시 시스템 리팩토링 및 개발/운영 경험<br>
    - 현업부서와의 협업을 통한 시스템 개선  
    - 견적의뢰부터 정산까지의 서비스 전 영역에 대한 비즈니스 로직 파악<br>
    - 물류시스템 연동 / 파트너오피스/ 고객오피스 등 외부 연계시스템에 대한 구축 경험<br><br>
-  B2C와 B2B 커머스 플랫폼 개발/운영 경험<br>
+   B2C와 B2B 커머스 플랫폼 개발/운영 경험<br>
    - 상품, 주문, 정산 서비스 영역 운영 
-   - 대외 서비스 연계 개발 경험
-   - PG사 연동 개발 경험<br><br>
+   - 대외 서비스 연계 개발
+   - PG사 연동 개발<br><br>
 
 content:
   - title: Experience
@@ -71,7 +71,7 @@ content:
       - layout: left
         title: 행복나래
         sub_title: IT팀 Manager
-        caption: 2019.01 ~ 재직중
+        caption: 2019.01 ~ 2025.08
         quote: >
           일 주문 1만건 SK 계열사 대상 B2B 구매 서비스 개발 및 운영
         description: | # this will include new lines to allow paragraphs
@@ -84,20 +84,13 @@ content:
             * CI/CD 서버 구축, 소스 관리 및 자동 배포 구축 및 운영(Jenkins, GitLab)
             * APM 구축(Scouter) 
       - layout: left
-        title: 행복나래
-        sub_title: IT팀 Manager
-        caption: 2019.01 ~ 재직중
+        title: AhnLab
+        sub_title: 플랫폼서비스팀 선임연구원
+        caption: 2025.08 ~ 재직중
         quote: >
-          일 주문 1만건 SK 계열사 대상 B2B 구매 서비스 개발 및 운영
+          B2C / B2B 커머스 플랫폼 서비스 개발 및 운영 
         description: | # this will include new lines to allow paragraphs
-            * 구매 시스템 운영 및 개발
-            * 헝가리, 미국 법인 구매 시스템 구축(2021.08 ~ 2022.03)
-            * 국내 파트너 서비스 JSP -> Spring Boot 컨버전 프로젝트 수행(2020.10 ~ 2021.03)
-            * 스케줄러 시스템 구축 
-            * 구매시스템 통합 내부 결재 시스템 구축
-            * SK관계사,  비관계사 인터페이스 구축 및 운영
-            * CI/CD 서버 구축, 소스 관리 및 자동 배포 구축 및 운영(Jenkins, GitLab)
-            * APM 구축(Scouter)       
+            * 커머스 운영 및 개발   
             
   - title: 역량
     layout: list
@@ -161,7 +154,8 @@ content:
       - layout: left
         title: Frontend
         description: | # this will include new lines to allow paragraphs
-          * Nuxt.js, Vue.js, Thymeleaf, JavaScript, jQuery
+          * Nuxt.js, Vue.js, Thymeleaf
+          * JavaScript, jQuery
 
 
 # Footer
