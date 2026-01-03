@@ -52,8 +52,8 @@ darkmode: false
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요. 7년차 백엔드 개발자 김관용입니다.<br>
-  7년 간 일 주문 1만건 **SK하이닉스 자회사 B2B 구매** 서비스 개발자로 근무<br>
+  안녕하세요. 8년차 백엔드 개발자 김관용입니다.<br>
+  6년 간 일 주문 1만건 **SK하이닉스 자회사 B2B 구매** 서비스 개발자로 근무<br>
   현재는 **보안 전문 기업의 커머스 플랫폼** 개발자로 재직중입니다.<br><br>
   구매 시스템 전 영역에 걸친 레거시 시스템 리팩토링 및 개발/운영 경험<br>
    - 현업부서와의 협업을 통한 시스템 개선  
@@ -91,7 +91,7 @@ content:
         quote: >
           B2C / B2B 커머스 플랫폼 서비스 개발 및 운영 
         description: | # this will include new lines to allow paragraphs
-            * 커머스 운영 및 개발   
+            * Kotlin/SpringBoot, Vue.js 기반 커머스 플랫폼 운영 및 개발   
             
   - title: 역량
     layout: list
